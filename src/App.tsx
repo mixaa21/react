@@ -10,9 +10,11 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <a className="App-link" href='https://vk.com/specialit'>
-          миша прораммер программеров ПРОГРАММЕР
-        </a>
+        <a className="App-link" href='https://vk.com/specialit'></a>
+        <div className="class">
+          <h1>lsjdkfj</h1>
+          <p>shdufhu444444444444</p>
+        </div>
       </header>
     </div>
   );
